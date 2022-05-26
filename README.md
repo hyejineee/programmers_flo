@@ -28,11 +28,11 @@ $ gradle test
 
 ## 🧐  스크린샷 및 주요 기능
 
-<img width="30%" src="./images/flo-스플래쉬 화면.jpeg">  
+<img width="30%" src="./images/flo-스플래쉬%20화면.png">  
 
 **스플래쉬 화면**
 
-<img width="30%" src="./images/flo-메인화면.png">  
+<img width="30%" src="./images/flo-메인화면.png">  
 
 **메인 화면**
 
@@ -41,8 +41,7 @@ $ gradle test
 - seek bar를 사용하여 **재생 구간을 설정** 할 수 있습니다.
 - 재생중인 음악의 정보를 나타냅니다. (곡명, 아티스트, 앨범 커버 이미지)
 
-<img width="30%" src="./images/flo-가사_선택_모드.png">  
-
+<img width="30%" src="./images/flo-가사%20선택%20모드.png">  
 
 **가사 다이얼로그**
 
