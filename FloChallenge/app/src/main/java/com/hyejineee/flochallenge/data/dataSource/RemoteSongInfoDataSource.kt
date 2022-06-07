@@ -14,7 +14,7 @@ class RemoteSongInfoDataSource : KoinComponent {
         return Observable.create { observer ->
             try {
                 val response = floServiceAPI
-                    .getSongInfoService()
+                floDiagram.svg             .getSongInfoService()
                     .getSongInfo()
                     .execute()
 
